@@ -1,28 +1,18 @@
 ---
 layout: exhibit
-title: "Exhibit with Subset Collection"
+title: "Alternate Geography"
 gallery: True
-author: Mihr 'Ali
-publish_date: 2018-11-15
-permalink: /exhibits/subset/
+author: Sasha Wells
+publish_date: June 14, 2024
+permalink: /exhibits/location/
 ---
+Da gallery down below has the ability to sort by location! Unlike the 'browse' section which is a wide search, you can do a narrow search here. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Volutpat sed cras ornare arcu dui vivamus arcu felis. Aenean pharetra magna ac placerat vestibulum lectus mauris. Vel orci porta non pulvinar neque laoreet. Augue interdum velit euismod in pellentesque. Id aliquet lectus proin nibh nisl. Sit amet consectetur adipiscing elit duis tristique sollicitudin nibh. In pellentesque massa placerat duis ultricies lacus sed. Purus sit amet volutpat consequat. Morbi tempus iaculis urna id volutpat lacus laoreet. Quam id leo in vitae turpis massa. Aliquam vestibulum morbi blandit cursus risus at. Blandit turpis cursus in hac. Lacinia quis vel eros donec ac odio tempor orci dapibus. Amet mattis vulputate enim nulla aliquet porttitor. Amet purus gravida quis blandit turpis cursus.
-
-
-## Subset Collection without Facets
-
-The gallery below includes the subset of all portraits in the larger minicomp collection. In this example there is no facet menu. The item cards are mostly static. 
-
-{% include gallery.html collection='minicomp' field='publisher' value='Bahamas Gazette' num_column=4 %}
-
-
-## Subset Collection with Facets
-
-The gallery below includes the subset of all manuscripts in the larger minicomp collection. Just as you with the larger collection, you can facet the collection by other criteria. The gallery will dynamically change to reflect your selections.
+By sorting through the locations of runaways you should be able to see certain patterns emerge among those who ranaway. Enslaved men and women continually strove to create a "rival geography," featuring "other kinds of spaces that gave them room and time for their families, for rest from work, and for amusement."[^1] Flight or absenteeism not only secured time for rest or for visits to family members, it represented resistance to the spatial strictures enforced by overseers, passes, and slave patrols. The geography of various islands, and The Bahamas as a whole, were perceived differently by White people versus people of colour in the colony. 
 
 {% include gallery.html collection='minicomp' field='publisher' value='Bahamas Gazette' facet_by='runaway_origin|runaway_destination' num_column=4 %}
 
-
+### Notes
+[^1]: Camp, 5-6.
 
 

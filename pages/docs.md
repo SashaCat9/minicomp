@@ -47,6 +47,12 @@ The `facet_by:` is optional. If we don't want to facet further, as in this case,
 
 `{% raw %}{% include gallery.html collection='minicomp' field='object_type' value='manuscript' facet_by='location|current_location' num_column=4 %}{% endraw %}`
 
+## Subset Collection without Facets
+
+The gallery below includes the subset of all portraits in the larger minicomp collection. In this example there is no facet menu. The item cards are mostly static. 
+
+{% include gallery.html collection='minicomp' field='publisher' value='Bahamas Gazette' num_column=4 %}
+
 
 ## ... change our design
 
