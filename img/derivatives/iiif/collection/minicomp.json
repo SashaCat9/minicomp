@@ -1,0 +1,76 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/minicomp.json",
+  "@type": "sc:Collection",
+  "label": "minicomp",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/baapr231785/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "baapr231785"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/baaug281784/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "baaug281784"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/bafeb191785/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "bafeb191785"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/bafeb51785/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "bafeb51785"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/bajan11785/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "bajan11785"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/bajuly161785a/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "bajuly161785a"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/bajuly161785b/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "bajuly161785b"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/bajuly301785a/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "bajuly301785a"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/bajuly301785b/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "bajuly301785b"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/bajuly301785c/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "bajuly301785c"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/bamay141785/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "bamay141785"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/baoct21784/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "baoct21784"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/photo1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "photo1"
+    }
+  ]
+}

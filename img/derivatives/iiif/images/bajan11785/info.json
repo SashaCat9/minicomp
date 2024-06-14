@@ -1,0 +1,45 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/bajan11785",
+  "protocol": "http://iiif.io/api/image",
+  "width": 1181,
+  "height": 464,
+  "sizes": [
+    {
+      "width": 1181,
+      "height": 464
+    },
+    {
+      "width": 250,
+      "height": 98
+    },
+    {
+      "width": 1140,
+      "height": 448
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

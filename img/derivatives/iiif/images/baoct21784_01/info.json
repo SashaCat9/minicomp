@@ -1,0 +1,45 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/baoct21784_01",
+  "protocol": "http://iiif.io/api/image",
+  "width": 1890,
+  "height": 1818,
+  "sizes": [
+    {
+      "width": 1890,
+      "height": 1818
+    },
+    {
+      "width": 250,
+      "height": 240
+    },
+    {
+      "width": 1140,
+      "height": 1097
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

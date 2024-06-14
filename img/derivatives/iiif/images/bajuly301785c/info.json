@@ -1,0 +1,45 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/bajuly301785c",
+  "protocol": "http://iiif.io/api/image",
+  "width": 1042,
+  "height": 263,
+  "sizes": [
+    {
+      "width": 1042,
+      "height": 263
+    },
+    {
+      "width": 250,
+      "height": 63
+    },
+    {
+      "width": 1140,
+      "height": 288
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}
