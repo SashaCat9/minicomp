@@ -71,6 +71,11 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/photo1/manifest.json",
       "@type": "sc:Manifest",
       "label": "photo1"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/photo2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "photo2"
     }
   ]
 }
