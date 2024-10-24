@@ -8,11 +8,10 @@ names_mentioned: 'Enslaved: Grace. Enslaver: Richard Durham'
 runaway_origin: Nassau, New Providence, The Bahamas
 runaway_destination: Unknown
 enslaved_gender: Female
-physical: Unknown
+'physical ': Unknown
 enslaved_occupation: Unknown
 enslaved_age: Unknown
-decade: '1780'
-tags: Nassau|Female
+tags: nassau|female
 source: https://ufdc.ufl.edu/uf00098611/00240
 order: '11'
 layout: minicomp_item

@@ -8,13 +8,12 @@ names_mentioned: 'Enslaved: Sambo and Prince. Enslaver: Issac Baillou. '
 runaway_origin: Saint Augustine, Florida and Refugee Hill, New Providence, The Bahamas
 runaway_destination: Nassau, New Providence
 enslaved_gender: Male
-physical: 'Scarification and Disability '
+'physical ': Scarification and Disability
 enslaved_occupation: Baptist Preacher and Unknown
 enslaved_age: 55 and Unknown
-decade: '1780'
-tags: Nassau|Loyalist
+tags: nassau|loyalist
 source: https://ufdc.ufl.edu/uf00098611/00240
-order: '9'
+order: '09'
 layout: minicomp_item
 collection: minicomp
 thumbnail: "/img/derivatives/iiif/images/bajuly301785a/full/250,/0/default.jpg"

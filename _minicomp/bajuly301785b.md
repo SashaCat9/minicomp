@@ -8,11 +8,10 @@ names_mentioned: 'Enslaved: Unknown. Enslaver: Dr. Scott. Ad Poster: Philip Moor
 runaway_origin: Nassau, New Providence, The Bahamas
 runaway_destination: Unknown
 enslaved_gender: Male
-physical: Body Type
+'physical ': Body Type
 enslaved_occupation: Unknown
 enslaved_age: Unknown
-decade: '1780'
-tags: Nassau
+tags: nassau
 source: https://ufdc.ufl.edu/uf00098611/00240
 order: '10'
 layout: minicomp_item

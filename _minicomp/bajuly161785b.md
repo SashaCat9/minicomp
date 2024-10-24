@@ -8,13 +8,12 @@ names_mentioned: 'Enslaved: Ben. Enslaver: John Tucker and Rush Tucker.'
 runaway_origin: Nassau, New Providence, The Bahamas
 runaway_destination: Unknown
 enslaved_gender: Male
-physical: Unknown
+'physical ': Unknown
 enslaved_occupation: Shoemaker
 enslaved_age: Unknown
-decade: '1780'
-tags: Nassau
+tags: nassau
 source: https://ufdc.ufl.edu/uf00098611/00238
-order: '8'
+order: '08'
 layout: minicomp_item
 collection: minicomp
 thumbnail: "/img/derivatives/iiif/images/bajuly161785b/full/250,/0/default.jpg"
