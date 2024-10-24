@@ -7,6 +7,8 @@ permalink: /exhibits/bahamian-slavery/
 ---
 ### Urban and Rural Slavery
 
+<b> Under construction </b>
+
 Historians have not deeply studied the unique example of runaway slaves in The Bahamas or looked specifically at urban slavery in Nassau, New Providence. Instead, they have conflated the urban and rural forms of enslavement in The Bahamas, providing little distinction between those enslaved in the outer islands versus those enslaved in New Providence. Urban and rural slavery were both practiced in The Bahamas. While The Bahamas was not a plantation society, in the late 18th Century, Dr. Johann Schoepf observed that families in New Providence lived on the returns of their plantations and the work of their slaves.[^1] Towns and cities as urban centers held a great need for labour which enslavement could provide. Scholars such as Pedro Welch, AJR Russell-Wood, and BW Higman have shown that urban slavery was consistently practiced outside of the United States. 
 
 Rural slavery in The Bahamas has its own unique history. The enslaved in rual areas had access to certain freedoms that the urban enslaved could not experience. Slaves on rural plantations were allowed to participate in subsistence farming on their own time; both genders engaged in the farming. As archeological excavations have revealed the enslaved supplemented their protein from wild species, usually shellfish, fish, and conch which indicates that provisions were not enough to sustain them. Many enslaved had yard gardens as well, though these were “highly gendered spaces” dominated by women. Enslavers allowed their enslaved workers to provide for themselves through these means, undoubtedly because it allowed them to provide less subsistence to their enslaved labour force.[^2]
