@@ -1,12 +1,10 @@
 title: Runaways
-subtitle: A Subaltern History of Bahamian Slave Resistance 
+subtitle: Bahamian Slavery 
 author:
-  name: Wax user
+  name: Sasha Wells
   email: your-email@domain.com
 description:
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Runaways is a complete collection of Bahamian newspaper advertisements about runaway slaves. It was created by Bahamian Historian Sasha Wells.
 url: "https://sashacat9.github.io/"
 baseurl: "/minicomp"
 
