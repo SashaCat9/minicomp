@@ -3,7 +3,7 @@ pid: bajuly301785b
 label: Run Away… a young stout Negro Man
 publisher: Bahamas Gazette
 publication_date: July 30, 1785
-Decade: '1780'
+decade: '1780'
 advertisement_date: August 6, 1785
 names_mentioned: 'Enslaved: Unknown. Enslaver: Dr. Scott. Ad Poster: Philip Moore.'
 runaway_origin: Nassau, New Providence, The Bahamas

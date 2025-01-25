@@ -3,7 +3,7 @@ pid: bajuly161785b
 label: Runaway… a Negro Fellow
 publisher: Bahamas Gazette
 publication_date: July 16, 1785
-Decade: '1780'
+decade: '1780'
 advertisement_date: July 12, 1785
 names_mentioned: 'Enslaved: Ben. Enslaver: John Tucker and Rush Tucker.'
 runaway_origin: Nassau, New Providence, The Bahamas

@@ -3,7 +3,7 @@ pid: Photo2
 label: Map of The Bahamas
 publisher: N/A
 publication_date: N/A
-Decade: N/A
+decade: N/A
 advertisement_date: N/A
 names_mentioned: N/A
 runaway_origin: N/A

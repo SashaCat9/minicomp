@@ -3,7 +3,7 @@ pid: bajuly301785a
 label: Run Away about nine months ago
 publisher: Bahamas Gazette
 publication_date: July 30, 1785
-Decade: '1780'
+decade: '1780'
 advertisement_date: August 6, 1785
 names_mentioned: 'Enslaved: Sambo and Prince. Enslaver: Issac Baillou. '
 runaway_origin: Saint Augustine, Florida and Refugee Hill, New Providence, The Bahamas
