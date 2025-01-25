@@ -15,7 +15,19 @@ While runaway slave advertisements speak with a colonial voice, they possess gre
 
 *Runaways* is a resource for researchers, teachers, and students who want to learn more about those *"with the look of a complete villian."* [^1] Running away was a common act of resistance amongst enslaved persons. With *Runaways*, all the runaway slave advertisements published in the Bahamian colony are compiled in one place for everyone to view.
 
-{% include inline_image.html collection='minicomp' pid='Photo2' %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <img src="https://www.researchgate.net/profile/Robert-Henderson-8/publication/265201548/figure/fig2/AS:669405558104068@1536610130376/Map-of-the-Bahama-Islands-and-the-Turks-Caicos-Islands.png" 
+         alt="Map of The Bahamas and Turks & Caicos" 
+         style="max-width:100%; height:auto; border:1px solid #ccc; padding:5px; box-shadow: 2px 2px 8px rgba(0,0,0,0.2);">
+</body>
+</html>
+
+-------------
 
 Take a look and meet *Castalio* who ran with *Dick* from New York to Abaco or *Peter* and *Pindar* who ran away from their enslaver's plantation with their four sons. Black Loyalists, *Sambo* and *Prince*, appear in the archive as well. Or see Charlotte who ran away at least twice from her enslaver. These persons named are *just* a small few that appear in over __300__ runaway slave advertisements. 
 
