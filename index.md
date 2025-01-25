@@ -31,7 +31,7 @@ While runaway slave advertisements speak with a colonial voice, they possess gre
 
 Take a look and meet *Castalio* who ran with *Dick* from New York to Abaco or *Peter* and *Pindar* who ran away from their enslaver's plantation with their four sons. Black Loyalists, *Sambo* and *Prince*, appear in the archive as well. Or see Charlotte who ran away at least twice from her enslaver. These persons named are *just* a small few that appear in over __300__ runaway slave advertisements. 
 
-Reading runaway slave advertisements combined with the photography by Jacob Frank Coonley(Courtesy of the University of Cambridge Library) will help you to visualize Nassau, New Providence and The Bahamas more widely.[^3] See yourself walking along *Bay Street* and breathing in the salt air. Walk *Over-the-Hill* to *Grant's Town* and see the stacked stone walls and thatched roof houses Black Bahamians lived in. Let your mind carry you to *Alligator Bay, Long Island,* and labour alongside field workers as they harvest sisal and herd cattle. 
+Reading runaway slave advertisements combined with the photography by Jacob Frank Coonley (Courtesy of the University of Cambridge Library) will help you to visualize Nassau, New Providence and The Bahamas more widely.[^3] See yourself walking along *Bay Street* and breathing in the salt air. Walk *Over-the-Hill* to *Grant's Town* and see the stacked stone walls and thatched roof houses Black Bahamians lived in. Let your mind carry you to *Alligator Bay, Long Island,* and labour alongside field workers as they harvest sisal and herd cattle. 
 
 Use the photos and the runaway slave advertisements to *see* what life would have been like in the eariler late 18th and eariler 19th century for enslaved people of colour.[^2] 
 
