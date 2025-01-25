@@ -31,11 +31,6 @@ Many patterns can be observed when looking at runaway slave advertisements. The 
 
 A White contemporary of the time period, Daniel McKinnen, described a sale of enslaved people in Nassau. He observed, “on the neck of each slave was slung a label specifying the price which the owner demanded, and varying between two and three hundred dollars according to age, strength, sex, &c.” McKinnen remarked that the “cargo “was comprised of numerous enslaved persons from different nations speaking different languages “unintelligible to each other.”[^1]
 
-{% include parallax_image.html collection='minicomp' pid='photo1' x='50%' %}
-
 --- 
 ### Notes
-[1]: Dr. Johann David Schoepf, *Travels in the Confederation 1783-1784, Vol. 2* (Philadelphia: W. J. Campbell, 1911), 263.
-[^2]: Craton and Saunders, *Islanders in the Stream: A History of the Bahamian People: Volume One: From Aboriginal Times to the End of Slavery* (Athens: University of Georgia Press, 1992), 188; CO 23/67/103-115; Paul Farnsworth, “Archaeological Excavations at Promised Land Plantation, New Providence,” Journal of The Bahamas Historical Society 16, (1994): 27; Paul Farnsworth and Laurie Wilkie, *Sampling Many Pots: An Archaeology of Memory and Tradition at a Bahamian Plantation* (Gainesville, University of Florida Press, 2005), 159. Laurie A Wilkie, “House Gardens and Female Identity on Crooked Island,” Journal of The Bahamas Historical Society 18, (1996): 36; Douglas Hall, “Slaves and Slavery in the British West Indies,” Social and Economic Studies 11, no. 4 (1962): 314.
-[^3]: Mariana Dantas, *Black Townsmen: Urban Slavery and Freedom in the Eighteenth-Century Americas* (Basingstoke: Palgrave Macmillan, 2008), 68-69.
 [^1]: McKinnen, A Tour Through The British West Indies, 218-219; Daniel McKinnen was a White British traveler who wrote about his tour through the British West Indies. 
