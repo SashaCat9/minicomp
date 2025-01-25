@@ -1,9 +1,9 @@
 ---
 layout: exhibit
-title: "Alternate Geography"
+title: "Location"
 gallery: True
 author: Sasha Wells
-publish_date: June 14, 2024
+publish_date: January 24, 2025
 permalink: /exhibits/location/
 ---
 The gallery down below has the ability to sort by location! 

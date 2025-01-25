@@ -72,7 +72,7 @@ menu:
       - label: "Location"
         link: "/exhibits/location/"
   - label: "Browse"
-    link: "/collection/"
+    link: "/browse/"
   - label: "Search"
     link: "/search/"
   - label: "Creator"
