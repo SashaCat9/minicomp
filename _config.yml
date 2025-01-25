@@ -65,8 +65,8 @@ search:
 menu:
   - label: "Sip-Sip"
     sub:
-      - label: "Marronage"
-        link: "/exhibits/marronage/"
+      - label: "Slavery and Runaways"
+        link: "/exhibits/slavery-and-runaways/"
       - label: "Bahamian Slavery"
         link: "/exhibits/bahamian-slavery/"
       - label: "Location"
