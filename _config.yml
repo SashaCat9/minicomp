@@ -67,8 +67,8 @@ menu:
     sub:
       - label: "Slavery and Runaways"
         link: "/exhibits/slavery-and-runaways/"
-      - label: "Bahamian Slavery"
-        link: "/exhibits/bahamian-slavery/"
+      - label: "Newspapers"
+        link: "/exhibits/newspapers/"
       - label: "Location"
         link: "/exhibits/location/"
   - label: "Browse"

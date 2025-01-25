@@ -1,42 +1,41 @@
 ---
 layout: exhibit
-title: 'Bahamian Slavery'
+title: 'Newspapers'
 author: Sasha Wells
-publish_date: June 14, 2024
-permalink: /exhibits/bahamian-slavery/
+publish_date: January 24, 2025
+permalink: /exhibits/newspapers/
 ---
-### Urban and Rural Slavery
+### Newspapers
 
-<b> Under construction </b>
+In 1784, regularly printed news began in The Bahamas. The first newspaper was *The Bahama Gazette*. It was later in competition with *The Royal Gazette, and Bahama Advertiser* starting in 1804. *The Bahama Argus* would start printing in the colony in 1831. The frequency of the publication of each of the newspaper changed over time.
 
-Historians have not deeply studied the unique example of runaway slaves in The Bahamas or looked specifically at urban slavery in Nassau, New Providence. Instead, they have conflated the urban and rural forms of enslavement in The Bahamas, providing little distinction between those enslaved in the outer islands versus those enslaved in New Providence. Urban and rural slavery were both practiced in The Bahamas. While The Bahamas was not a plantation society, in the late 18th Century, Dr. Johann Schoepf observed that families in New Providence lived on the returns of their plantations and the work of their slaves.[^1] Towns and cities as urban centers held a great need for labour which enslavement could provide. Scholars such as Pedro Welch, AJR Russell-Wood, and BW Higman have shown that urban slavery was consistently practiced outside of the United States. 
+*The Bahama Gazette* was printed by John Wells in Nassau, New Providence at his printing office on George Street. The newspaper’s motto was *“nullius addictus jurare in verba magistri”* which means “not bound to swear by the words of a master.” *The Bahama Gazette* would changed hands by 1813 to John Traub and Neil McQueen. Their printing office was located on Fredrick Street. 
 
-Rural slavery in The Bahamas has its own unique history. The enslaved in rual areas had access to certain freedoms that the urban enslaved could not experience. Slaves on rural plantations were allowed to participate in subsistence farming on their own time; both genders engaged in the farming. As archeological excavations have revealed the enslaved supplemented their protein from wild species, usually shellfish, fish, and conch which indicates that provisions were not enough to sustain them. Many enslaved had yard gardens as well, though these were “highly gendered spaces” dominated by women. Enslavers allowed their enslaved workers to provide for themselves through these means, undoubtedly because it allowed them to provide less subsistence to their enslaved labour force.[^2]
+*The Royal Gazette, and Bahama Advertiser* was printed by Robert Willson in Nassau, New Providence at his printing office on Market Street. In 1813, The newspaper was taken over by N. McQueen & Company. Their motto was *“nil ficte foede aut intemperanter”* which means “Nothing fake, foul or intemperate.”
 
-{% include inline_image.html collection='minicomp' pid='baoct21784' %}
+*The Bahama Argus* was printed by George Biggs in Nassau, New Providence at his printing office.
 
-Urban slavery needs to be examined to show how the connections the enslaved fostered helped them escape and produce a place where fugitivity was frequent. Urban centers were prime locations for information to be disseminated among individuals. Nassau was a center for mobile people to travel to and through. The urban environment of Nassau (and largely New Providence) allowed enslaved people more opportunities for connection as mobile people like maroons, sailors, and the enslaved were everywhere. Whether enslaved people were being hired out for a job or carrying out tasks for their master, they might have stopped at marketplace or by the well and gossiped with their fellow enslaved; all these encounters led to a wider social network which led to freedom more often than their outer island counterparts. The growth of enslaved labour in towns is directly related to urban development through the Americas and this applies to The Bahamas as well.[^3]  Urban enslaved had mobility and access to the information in ways rural enslaved did not.
+{% include inline_image.html collection='minicomp' pid='bamay141785' %}
+------------- 
 
-The geography of The Bahamas might cause historians to think about rural and urban slavery existing on multiple different islands. While Nassau was the urban center of New Providence, and by extension The Bahamas, other islands like Crooked Island and Great Inagua had ports where trading occurred, thus creating an economic urban center in those locations. 
+### Runaway Advertisements 
+In The Bahamas, enslaved people ran away. Those who were gone for more than 14 days were deemed outlaws, and owners __had__ to advertise them in “usual public places.” 
+
+A 1767 Act indicated that enough enslaved people in the colony ran away for certain restrictions and rules to be put in place against people of colour. Prior to the newspapers, runaway advertisements were published at Vendue House, which was the marketplace.
+
+A lot of information can be observed when studying runaway slave advertisements. You can see who is running away, what they looked like and carried with them, where are they running away from and where they are going.
+
+Many patterns can be observed when looking at runaway slave advertisements. The wording and language of advertisements can indicate many things. One common pattern shows that the enslaved had a strong knowledge about the workings of the colony. Another pattern shows that enslavers put a higher emphasis on keeping their female enslaved over their male enslaved. Female advertisements usually ran longer in the newspaper than their male counterparts. Runaway slave advertisements also show that many enslaved who ran away in Nassau were ‘well known about town.’
+
+{% include inline_image.html collection='minicomp' pid='bafeb191785' %}
+
+A White contemporary of the time period, Daniel McKinnen, described a sale of enslaved people in Nassau. He observed, “on the neck of each slave was slung a label specifying the price which the owner demanded, and varying between two and three hundred dollars according to age, strength, sex, &c.” McKinnen remarked that the “cargo “was comprised of numerous enslaved persons from different nations speaking different languages “unintelligible to each other.”[^1]
 
 {% include parallax_image.html collection='minicomp' pid='photo1' x='50%' %}
 
-### Runaway Advertisements 
-The enslaved who were gone for more than 14 days were deemed outlaws, and owners had to advertise them in “usual public places.” A 1767 act indicated that enough enslaved people in the colony ran away for certain resistrictions and rules to be put in place against people of colour. The first newspaper, the *Bahama Gazette* did not come to The Bahamas until 1784, so the advertisements were usually placed at Vendue House, which was the slave marketplace. 
-
-Many patterns become observable when looking at runaway advertisements. The wording and language of various advertisements indicate fastinating things. Common patterns show that the enslaved had a strong knowledge about the workings of the colony and the wider world. It appears that masters put a higher emphasis on retaining their female slaves over their male slaves as female ads usually ran longer in the newspaper than their male counterparts. The advertisments show that many enslaved who ran away in Nassau were *'well known about town.'* 
-
-{% include inline_image.html collection='minicomp' pid='bajuly301785c' %}
-
-White contemporary Daniel McKinnen described a sale of enslaved people in Nassau: “On the neck of each slave was slung a label specifying the price which the owner demanded, and varying between two and three hundred dollars according to age, strength, sex, &c.” He remarked that the “cargo “was comprised of numerous enslaved persons from different nations speaking different languages “unintelligible to each other.” McKinnen described the “benevolent masters” of those purchased, saying how “delighted” the enslaved people were with their “kind treatment” and change in situation. [^4] 
-
-### Look At The Map Below to See Locations of the Enslaved Mentioned
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1Dgi4jksa4VFR-sXa-hjk9mOayFtf2Pc&ehbc=2E312F" width="700" height="480"></iframe>
-
 --- 
 ### Notes
-[^1]: Dr. Johann David Schoepf, *Travels in the Confederation 1783-1784, Vol. 2* (Philadelphia: W. J. Campbell, 1911), 263.
+[1]: Dr. Johann David Schoepf, *Travels in the Confederation 1783-1784, Vol. 2* (Philadelphia: W. J. Campbell, 1911), 263.
 [^2]: Craton and Saunders, *Islanders in the Stream: A History of the Bahamian People: Volume One: From Aboriginal Times to the End of Slavery* (Athens: University of Georgia Press, 1992), 188; CO 23/67/103-115; Paul Farnsworth, “Archaeological Excavations at Promised Land Plantation, New Providence,” Journal of The Bahamas Historical Society 16, (1994): 27; Paul Farnsworth and Laurie Wilkie, *Sampling Many Pots: An Archaeology of Memory and Tradition at a Bahamian Plantation* (Gainesville, University of Florida Press, 2005), 159. Laurie A Wilkie, “House Gardens and Female Identity on Crooked Island,” Journal of The Bahamas Historical Society 18, (1996): 36; Douglas Hall, “Slaves and Slavery in the British West Indies,” Social and Economic Studies 11, no. 4 (1962): 314.
 [^3]: Mariana Dantas, *Black Townsmen: Urban Slavery and Freedom in the Eighteenth-Century Americas* (Basingstoke: Palgrave Macmillan, 2008), 68-69.
-[^4]: McKinnen, A Tour Through The British West Indies, 218-219; Daniel McKinnen was a White British traveler who wrote about his tour through the British West Indies. 
+[^1]: McKinnen, A Tour Through The British West Indies, 218-219; Daniel McKinnen was a White British traveler who wrote about his tour through the British West Indies. 
