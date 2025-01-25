@@ -13,7 +13,7 @@ enslaved_occupation: Unknown
 enslaved_age: '20'
 tags: nassau|female
 source: https://ufdc.ufl.edu/uf00098611/00238
-order: '07'
+order: '8'
 layout: minicomp_item
 collection: minicomp
 thumbnail: "/img/derivatives/iiif/images/bajuly161785a/full/250,/0/default.jpg"

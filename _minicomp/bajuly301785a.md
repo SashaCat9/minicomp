@@ -13,7 +13,7 @@ enslaved_occupation: Baptist Preacher and Unknown
 enslaved_age: 55 and Unknown
 tags: nassau|loyalist
 source: https://ufdc.ufl.edu/uf00098611/00240
-order: '09'
+order: '10'
 layout: minicomp_item
 collection: minicomp
 thumbnail: "/img/derivatives/iiif/images/bajuly301785a/full/250,/0/default.jpg"

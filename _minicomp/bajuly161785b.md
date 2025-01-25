@@ -13,7 +13,7 @@ enslaved_occupation: Shoemaker
 enslaved_age: Unknown
 tags: nassau
 source: https://ufdc.ufl.edu/uf00098611/00238
-order: '08'
+order: '9'
 layout: minicomp_item
 collection: minicomp
 thumbnail: "/img/derivatives/iiif/images/bajuly161785b/full/250,/0/default.jpg"
