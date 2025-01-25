@@ -3,6 +3,7 @@ pid: bajuly161785a
 label: Run Away… Negro Wench
 publisher: Bahamas Gazette
 publication_date: July 16, 1785
+Decade: '1780'
 advertisement_date: July 22, 1785
 names_mentioned: 'Enslaved: Daphne. Enslaver: John Hall.'
 runaway_origin: Nassau, New Providence, The Bahamas

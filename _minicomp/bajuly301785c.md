@@ -3,6 +3,7 @@ pid: bajuly301785c
 label: Run Away… a Negro Girl
 publisher: Bahamas Gazette
 publication_date: July 30, 1785
+Decade: '1780'
 advertisement_date: Unknown
 names_mentioned: 'Enslaved: Grace. Enslaver: Richard Durham'
 runaway_origin: Nassau, New Providence, The Bahamas
