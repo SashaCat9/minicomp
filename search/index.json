@@ -3,23 +3,6 @@ layout: none
 ---
 [
   {
-    "pid": "Photo2",
-    "label": "Map of The Bahamas",
-    "publisher": "N/A",
-    "publication_date": "N/A",
-    "advertisement_date": "N/A",
-    "names_mentioned": "N/A",
-    "runaway_origin": "N/A",
-    "runaway_destination": "N/A",
-    "enslaved_gender": "N/A",
-    "enslaved_occupation": "N/A",
-    "enslaved_age": "N/A",
-    "collection": "minicomp",
-    "content": " ",
-    "permalink": "/minicomp/Photo2",
-    "lunr_id": 0
-  },
-  {
     "pid": "baapr231785",
     "label": "Run Away from Mr. John",
     "publisher": "Bahamas Gazette",
@@ -35,7 +18,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/baapr231785/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/baapr231785",
-    "lunr_id": 1
+    "lunr_id": 0
   },
   {
     "pid": "baaug281784",
@@ -53,7 +36,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/baaug281784/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/baaug281784",
-    "lunr_id": 2
+    "lunr_id": 1
   },
   {
     "pid": "bafeb191785",
@@ -71,7 +54,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/bafeb191785/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/bafeb191785",
-    "lunr_id": 3
+    "lunr_id": 2
   },
   {
     "pid": "bafeb51785",
@@ -89,7 +72,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/bafeb51785/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/bafeb51785",
-    "lunr_id": 4
+    "lunr_id": 3
   },
   {
     "pid": "bajan11785",
@@ -107,7 +90,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/bajan11785/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/bajan11785",
-    "lunr_id": 5
+    "lunr_id": 4
   },
   {
     "pid": "bajuly161785a",
@@ -125,7 +108,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/bajuly161785a/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/bajuly161785a",
-    "lunr_id": 6
+    "lunr_id": 5
   },
   {
     "pid": "bajuly161785b",
@@ -143,7 +126,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/bajuly161785b/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/bajuly161785b",
-    "lunr_id": 7
+    "lunr_id": 6
   },
   {
     "pid": "bajuly301785a",
@@ -161,7 +144,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/bajuly301785a/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/bajuly301785a",
-    "lunr_id": 8
+    "lunr_id": 7
   },
   {
     "pid": "bajuly301785b",
@@ -179,7 +162,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/bajuly301785b/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/bajuly301785b",
-    "lunr_id": 9
+    "lunr_id": 8
   },
   {
     "pid": "bajuly301785c",
@@ -197,7 +180,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/bajuly301785c/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/bajuly301785c",
-    "lunr_id": 10
+    "lunr_id": 9
   },
   {
     "pid": "bamay141785",
@@ -215,7 +198,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/bamay141785/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/bamay141785",
-    "lunr_id": 11
+    "lunr_id": 10
   },
   {
     "pid": "baoct21784",
@@ -233,6 +216,6 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/baoct21784_00/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/baoct21784",
-    "lunr_id": 12
+    "lunr_id": 11
   }
 ]
