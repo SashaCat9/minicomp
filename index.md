@@ -23,7 +23,7 @@ While runaway slave advertisements speak with a colonial voice, they possess gre
 <body>
     <img src="https://www.researchgate.net/profile/Robert-Henderson-8/publication/265201548/figure/fig2/AS:669405558104068@1536610130376/Map-of-the-Bahama-Islands-and-the-Turks-Caicos-Islands.png" 
          alt="Map of The Bahamas and Turks & Caicos" 
-         style="max-width:100%; height:auto; border:1px solid #ccc; padding:5px; box-shadow: 2px 2px 8px rgba(0,0,0,0.2);">
+         style= "position: relative;max-width:100%; height:auto; border:1px solid #ccc; padding:5px; box-shadow: 2px 2px 8px rgba(51, 168, 198, 0.93);">
 </body>
 </html>
 
