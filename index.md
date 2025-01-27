@@ -19,11 +19,30 @@ While runaway slave advertisements speak with a colonial voice, they possess gre
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .map-wrapper {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 20px 0; /* Adds space around the map without affecting other items */
+        }
+        .map-wrapper img {
+            max-width: 90%;
+            height: auto;
+            border: 1px solid #ccc;
+            padding: 5px;
+            box-shadow: 2px 2px 8px rgba(12, 218, 246, 0.91);
+        }
+    </style>
 </head>
 <body>
-    <img src="https://www.researchgate.net/profile/Robert-Henderson-8/publication/265201548/figure/fig2/AS:669405558104068@1536610130376/Map-of-the-Bahama-Islands-and-the-Turks-Caicos-Islands.png" 
-         alt="Map of The Bahamas and Turks & Caicos" 
-         style= "position: relative;max-width:100%; height:auto; border:1px solid #ccc; padding:5px; box-shadow: 2px 2px 8px rgba(51, 168, 198, 0.93);">
+    <!-- Map content -->
+    <div class="map-wrapper">
+        <a href="https://www.researchgate.net/figure/Map-of-the-Bahama-Islands-and-the-Turks-Caicos-Islands_fig2_265201548">
+            <img src="https://www.researchgate.net/profile/Robert-Henderson-8/publication/265201548/figure/fig2/AS:669405558104068@1536610130376/Map-of-the-Bahama-Islands-and-the-Turks-Caicos-Islands.png" 
+                 alt="Map of the Bahama Islands and the Turks & Caicos Islands.">
+        </a>
+    </div>
 </body>
 </html>
 
@@ -40,12 +59,45 @@ Use the photos and the runaway slave advertisements to *see* what life would hav
 ---
 To promote __Bahamian Creole__ -- *yes, it is a "real" language* -- some of the website contains words, phrases, and entire paragraphs in Bahamian Creole. Bahamian Creole is a language separate from British or American English.[^4] It has its own grammar and linguistic rules. Don't argue wit me, argue wit ya ma! See da video dun below fa more info!
 
-<iframe width="800" height="475" src="https://www.youtube.com/embed/Sw2DZ8U48Wk?si=K8iASnyjAdAuR-vQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .video-wrapper {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 20px 0; /* Adds space around the video */
+        }
+        iframe {
+            max-width: 100%; /* Makes the video responsive */
+            height: auto; /* Adjusts the height proportionally */
+            aspect-ratio: 16 / 9; /* Ensures correct aspect ratio */
+            border: none;
+            box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <!-- Centered YouTube Video -->
+    <div class="video-wrapper">
+        <iframe 
+            src="https://www.youtube.com/embed/Sw2DZ8U48Wk?si=K8iASnyjAdAuR-vQ" 
+            title="YouTube video player" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+            width='800'
+            height='450'
+            referrerpolicy="strict-origin-when-cross-origin" 
+            allowfullscreen>
+        </iframe>
+    </div>
+</body>
+</html>
 
 --- 
-
 ### Notes
 [^1]: *Bahama Gazette*, October 28, 1786.
 [^2]: These photos from Cambridge's archive allows viewers to see Black Bahamians engaging with jobs they would have done while enslaved. Some of the locations, such as Grant's town were places that enslaved and free people of colour lived that only grew after emanicipation. Many of the buildings seen in these photos were built by the early 19th century. 
 [^3]: These photos are estimated to be from around 1890-1895 and are primarily set in Nassau, New Providence. The people in these photos are not enslaved but their way of life and geography of Nassau did not change much from emanicipation to the late 19th century.
-[^4]: Bahamian Creole is an English-based creole language. It is made of British English and West-African Languages as the main influences on it.  
+[^4]: Bahamian Creole is an English-based creole language. It is made of British English and West-African Languages as the main influences on it.
